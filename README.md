@@ -1,4 +1,3 @@
-📝 Description:
 This is a simple C++ program designed to perform basic mathematical operations based on user input. It’s perfect for beginners looking to get hands-on with both C++ programming 💻 .
 
 The project helps build foundational coding skills 🌐.
